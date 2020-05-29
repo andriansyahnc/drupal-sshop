@@ -36,3 +36,5 @@
 # Text editor/IDE
 /.vscode/
 /.idea/
+/.editorconfig
+/.gitattributes
