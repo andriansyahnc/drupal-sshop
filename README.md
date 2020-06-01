@@ -1,4 +1,4 @@
-#Drupal Boilerplate.
+#Drupal commerce Boilerplate.
 
 How to install for new user:
 - clone the project using `git clone git@github.com:andriansyahnc/drupal-boilerplate.git`
